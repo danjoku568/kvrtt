@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>My Online Shop</title>
+<title>kvrtt online shopping</title></title>
 
 <style>
 body{
